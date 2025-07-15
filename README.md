@@ -1,3 +1,4 @@
+please look for latest version section 
 # Rpg-playing-around-dragons-lair
 New to this using a.i. to learn code novice coder 
 have no idea how the license thing works or what gidi whatever is but here's the code import pygame
